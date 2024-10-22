@@ -1,4 +1,3 @@
-
 # RoboRally Board Game
 
 Welcome to the **RoboRally** digital board game project! This project is a digital recreation of the popular strategy board game **RoboRally**, where players program robots to navigate a complex board filled with obstacles and hazards. The project was initially developed as a single-player game and later enhanced with multiplayer functionality using a RESTful API, allowing multiple players to participate in real-time.
@@ -152,24 +151,3 @@ Contributions are welcome! To contribute:
 
 Please make sure your code is well-documented and includes tests where appropriate.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/RoboRally](https://github.com/yourusername/RoboRally)
-```
-
-### Key Sections of the README:
-
-1. **Features**: Describes both single-player and multiplayer aspects.
-2. **Technologies**: Details the stack used (Java, Spring Boot, JavaFX, etc.).
-3. **Getting Started**: Provides installation steps and setup instructions.
-4. **How to Play**: Explains the basic rules of RoboRally and gameplay flow.
-5. **Multiplayer via REST API**: Focuses on multiplayer mechanics powered by a RESTful API.
-6. **API Documentation**: A brief description of the API endpoints.
-7. **Project Structure**: Helps developers understand the organization of the codebase.
-8. **Contributing and License**: Encourages contributions and outlines the project's licensing terms.
